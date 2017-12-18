@@ -1,0 +1,599 @@
+{
+	"id": "6805581",
+	"displayName": "Lauren Ralph Lauren Sheleyne Stretch Cotton Crewneck Top",
+	"childSkus": [
+		{
+			"id": "sku1001",
+			"availability": false,
+			"pickers": {
+				"color": "1",
+				"size": "1",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1002",
+			"availability": true,
+			"pickers": {
+				"color": "1",
+				"size": "1",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1003",
+			"availability": false,
+			"pickers": {
+				"color": "1",
+				"size": "1",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1004",
+			"availability": true,
+			"pickers": {
+				"color": "1",
+				"size": "1",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1005",
+			"availability": false,
+			"pickers": {
+				"color": "1",
+				"size": "2",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1006",
+			"availability": true,
+			"pickers": {
+				"color": "1",
+				"size": "2",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1007",
+			"availability": false,
+			"pickers": {
+				"color": "1",
+				"size": "2",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1008",
+			"availability": false,
+			"pickers": {
+				"color": "1",
+				"size": "2",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1009",
+			"availability": true,
+			"pickers": {
+				"color": "1",
+				"size": "3",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1010",
+			"availability": true,
+			"pickers": {
+				"color": "1",
+				"size": "3",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1011",
+			"availability": false,
+			"pickers": {
+				"color": "1",
+				"size": "3",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1012",
+			"availability": true,
+			"pickers": {
+				"color": "1",
+				"size": "3",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1013",
+			"availability": true,
+			"pickers": {
+				"color": "1",
+				"size": "4",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1014",
+			"availability": true,
+			"pickers": {
+				"color": "1",
+				"size": "4",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1015",
+			"availability": false,
+			"pickers": {
+				"color": "1",
+				"size": "4",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1016",
+			"availability": true,
+			"pickers": {
+				"color": "1",
+				"size": "4",
+				"inseam": "4"
+			}
+		},
+
+
+
+
+
+		{
+			"id": "sku1017",
+			"availability": false,
+			"pickers": {
+				"color": "2",
+				"size": "1",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1018",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "1",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1019",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "1",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1020",
+			"availability": false,
+			"pickers": {
+				"color": "2",
+				"size": "1",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1021",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "2",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1022",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "2",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1023",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "2",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1024",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "2",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1025",
+			"availability": false,
+			"pickers": {
+				"color": "2",
+				"size": "3",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1026",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "3",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1027",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "3",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1028",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "3",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1029",
+			"availability": false,
+			"pickers": {
+				"color": "2",
+				"size": "4",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1030",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "4",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1031",
+			"availability": true,
+			"pickers": {
+				"color": "2",
+				"size": "4",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1032",
+			"availability": false,
+			"pickers": {
+				"color": "2",
+				"size": "4",
+				"inseam": "4"
+			}
+		},
+
+
+
+
+
+
+
+		{
+			"id": "sku1033",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "1",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1034",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "1",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1035",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "1",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1036",
+			"availability": false,
+			"pickers": {
+				"color": "3",
+				"size": "1",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1037",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "2",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1038",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "2",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1039",
+			"availability": false,
+			"pickers": {
+				"color": "3",
+				"size": "2",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1040",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "2",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1041",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "3",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1042",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "3",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1043",
+			"availability": false,
+			"pickers": {
+				"color": "3",
+				"size": "3",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1044",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "3",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1045",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "4",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1046",
+			"availability": false,
+			"pickers": {
+				"color": "3",
+				"size": "4",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1047",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "4",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1048",
+			"availability": true,
+			"pickers": {
+				"color": "3",
+				"size": "4",
+				"inseam": "4"
+			}
+		},
+
+
+
+
+
+		{
+			"id": "sku1049",
+			"availability": false,
+			"pickers": {
+				"color": "4",
+				"size": "1",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1050",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "1",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1051",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "1",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1052",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "1",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1053",
+			"availability": false,
+			"pickers": {
+				"color": "4",
+				"size": "2",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1054",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "2",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1055",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "2",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1056",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "2",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1057",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "3",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1058",
+			"availability": false,
+			"pickers": {
+				"color": "4",
+				"size": "3",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1059",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "3",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1060",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "3",
+				"inseam": "4"
+			}
+		},
+		{
+			"id": "sku1061",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "4",
+				"inseam": "1"
+			}
+		},
+		{
+			"id": "sku1062",
+			"availability": false,
+			"pickers": {
+				"color": "4",
+				"size": "4",
+				"inseam": "2"
+			}
+		},
+		{
+			"id": "sku1063",
+			"availability": true,
+			"pickers": {
+				"color": "4",
+				"size": "4",
+				"inseam": "3"
+			}
+		},
+		{
+			"id": "sku1064",
+			"availability": false,
+			"pickers": {
+				"color": "4",
+				"size": "4",
+				"inseam": "4"
+			}
+		}
+	]
+}

@@ -1,0 +1,49 @@
+* {
+	font-family: Calibri;
+	box-sizing: border-box;
+}
+
+.page-header {
+	border-bottom: 1px solid #000000;
+	color: #8030e2;
+}
+
+.breadcrumb ul li.item {
+	display: inline;
+	list-style: none;
+	padding-right: 15px;
+}
+
+.breadcrumb ul li.item:before {
+	content: "/";
+	padding-right: 15px;
+}
+
+.product {
+	width: 80%;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+.product .image, .product .details {
+	width: 50%;
+	float: left;
+	padding: 10px;
+}
+
+.product .details .price {
+	color: red;
+}
+
+.product .details .pickers {
+	border: 1px solid #bbe1ff;
+	padding: 10px;
+}
+
+.pickers .picker {
+	padding: 5px 10px;
+}
+
+.pickers .picker label.picker-label {
+    font-size: 12px;
+}

@@ -33,7 +33,7 @@ var updatePickers = function(picker) {
 	 	
 	 	var availableSkus = product.childSkus.filter(function(sku) {
 			return sku.pickers[selectedPickerType] === selectedPickerCode &&
-			sku.availability;
+			!sku.availability;
 		});
 
 	 	$.each(availablePickers, function(index, pickerType) {
@@ -50,7 +50,24 @@ var updatePickers = function(picker) {
 			 	$(picker).attr(attributeName, Array.from(pickerMap[pickerType]).join());
 			}
 		});
-	}
+	} 
+
+
+	$.each(availablePickers, function(index, pickerType) {
+ 		if(pickerType !== selectedPickerType) {
+			var attributeName = 'data-avail-' + pickerType;
+			var dataPickerTypeAttr = "[data-picker-type="+pickerType+"]";
+			var dataPickerCodeAttr = 'data-picker-code';
+			console.log(dataPickerTypeAttr);
+		 	var MyArray = $(picker).attr(attributeName).split(',');
+		 	console.log(MyArray);
+		 	var SelectedElements = $("input" + dataPickerTypeAttr + "," + Array.from(MyArray, x => '[' + dataPickerCodeAttr + '=' + x + ']') + "");
+		 	console.log("input" + dataPickerTypeAttr + "," + Array.from(MyArray, x => '[' + dataPickerCodeAttr + '=' + x + ']') + "")
+			$("input" + dataPickerTypeAttr).removeClass('disabled');
+			$(SelectedElements).addClass('disabled');
+		 	console.log("total SelectedElements = " + SelectedElements.length);
+		}
+	});
 }
 
 
